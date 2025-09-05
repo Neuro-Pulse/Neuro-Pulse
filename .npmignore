@@ -1,0 +1,15 @@
+src/
+.github/
+.husky/
+.changeset/
+docs/
+example/
+*.test.ts
+*.spec.ts
+.env
+.env.*
+docker-compose.yml
+Dockerfile
+nodemon.json
+jest.config.js
+webpack.config.js

@@ -302,7 +302,7 @@ export const DecorativeUIFrame = ({
                 className="px-6 py-3 text-lg font-helvetica-now-text font-bold uppercase text-black"
                 style={{ letterSpacing: "0.25em" }}
               >
-                Buy $TECH
+                Buy $NEURO
               </span>
               <div className="bg-black px-4 py-3 flex items-center justify-center rounded-l-lg">
                 <img
@@ -408,7 +408,7 @@ export const DecorativeUIFrame = ({
               color: linkBgColor,
             }}
           >
-            Buy $TECH
+            Buy $NEURO
           </motion.span>
           <div
             className="px-3 py-2 flex items-center justify-center transition-all duration-300 rounded-l-lg"

@@ -158,7 +158,7 @@ export default function ParallaxLayers() {
                 className="text-black text-sm sm:text-base md:text-lg lg:text-xl max-w-full sm:max-w-lg md:max-w-xl lg:max-w-2xl mt-4 sm:mt-6 md:mt-8 leading-relaxed"
                 style={{ fontFamily: "Helvetica Now Text", fontWeight: 400 }}
               >
-                Most traders miss the signals that matter. $TECH connects you to the wallets that move Solana.
+                Most traders miss the signals that matter. $NEURO connects you to the wallets that move Solana.
 Install the Chrome extension or start via Telegram — no friction, no fluff.
 Once linked, your feed lights up with real-time alpha from the smartest money on-chain.
               </p>
@@ -254,7 +254,7 @@ Once linked, your feed lights up with real-time alpha from the smartest money on
                 style={{ fontFamily: "Helvetica Now Text", fontWeight: 400 }}
               >
                 Stop chasing noise. Our AI filters wallet activity to surface only high-conviction moves.
-Whether it's a new meme coin or a quiet accumulation, $TECH sees it first.
+Whether it's a new meme coin or a quiet accumulation, $NEURO sees it first.
 Add your wallets, sit back, and let the signal stream do the heavy lifting.
               </p>
             </div>
@@ -349,7 +349,7 @@ Add your wallets, sit back, and let the signal stream do the heavy lifting.
                 style={{ fontFamily: "Helvetica Now Text", fontWeight: 400 }}
               >
                 You get the intel. You make the move. You stack the wins.
-$TECH delivers raw signal, not recycled hype — actionable, instant, and ahead of the crowd.
+$NEURO delivers raw signal, not recycled hype — actionable, instant, and ahead of the crowd.
 Click in, copy conviction, and repeat until it's second nature.
               </p>
             </div>

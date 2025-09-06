@@ -13,7 +13,7 @@ export const HeroSection = () => {
           
           {/* Center Text Block */}
           <div className="flex flex-col items-center text-white text-sm sm:text-base md:text-lg lg:text-xl leading-[1] uppercase mb-4 lg:mb-[20px] bb-manual-mono-force order-3 lg:order-2">
-            <div className="mb-0 text-center">Neuro Pulse TRACKER ($TECH)</div>
+            <div className="mb-0 text-center">Neuro Pulse TRACKER ($NEURO)</div>
             <div className="flex items-center justify-center whitespace-nowrap">
               <span className="translate-x-0 sm:translate-x-[-20px] lg:translate-x-[-50px]">+</span>
               <span className="mx-2 text-center">IS POWERING THE FUTURE</span>

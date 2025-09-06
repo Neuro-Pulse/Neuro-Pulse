@@ -40,7 +40,7 @@ export default function Index() {
       src: "home.png",
     },
     {
-      title: "Buy $TECH",
+      title: "Buy $NEURO",
       href: "#",
       src: "contact.png",
     },
